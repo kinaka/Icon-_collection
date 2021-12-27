@@ -1,2 +1,1 @@
-# Icon-_collection
-图标收藏
+# 图收藏
